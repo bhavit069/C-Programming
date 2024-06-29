@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// reference -> https://www.digitalocean.com/community/tutorials/stack-in-c
+
 #define MAX 5
 
 int stack[MAX];
